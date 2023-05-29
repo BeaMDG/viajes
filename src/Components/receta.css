@@ -1,0 +1,49 @@
+.receta {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+.receta div {
+    margin-bottom: 10px;
+}
+  
+.receta ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+  
+.receta li {
+    margin-bottom: 5px;
+}
+  
+.receta:hover {
+    background-color: #ebebeb;
+}
+
+@media (min-width: 768px) {
+    .receta {
+      /* Estilos para dispositivos más grandes */
+      padding: 30px;
+    }
+  
+    .receta div {
+      /* Estilos para dispositivos más grandes */
+      font-size: 18px;
+      margin-bottom: 15px;
+    }
+  
+    .receta ul {
+      /* Estilos para dispositivos más grandes */
+      margin-left: 30px;
+    }
+  
+    .receta li {
+      /* Estilos para dispositivos más grandes */
+      margin-bottom: 8px;
+    }
+}
+  

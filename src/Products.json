@@ -1,0 +1,159 @@
+
+[
+
+{
+    "name": "Art Institute of Chicago",
+    "City": "Chicago",
+    "imagenes": "./imagenes/chicago.jpg"
+  },
+  
+  
+  {
+    "name": "Biomuseo",
+    "City": "Panamá",
+    "imagenes": "./imagenes/panama.jpg"
+  },
+  
+   {
+    "name": "Galería de los Uffizi",
+    "City": "florencia",
+    "imagenes": "./imagenes/florencia.jpg"
+  },
+  
+  {
+    "name": "Museum aan de Stroom - MAS",
+    "City": "Bélgica",
+    "imagenes": "./imagenes/Bélgica.jpg"
+  },
+  
+  {
+    "name": "Metropolitan Museum of Art ",
+    "City": "New York",
+    "imagenes": "./imagenes/New York.jpg"
+  },
+  {
+    "name": "Monolito de Arte Moderno",
+    "City": "España",
+    "imagenes": "./imagenes/España.jpg"
+  },
+  
+  {
+    "name": "Museo de Arte Moderno Astrup Fearnley",
+    "City": "Oslo",
+    "imagenes": "./imagenes/Oslo.jpg"
+  },
+  {
+    "name": "Museo de Arte Pérez",
+    "City": "Miami",
+    "imagenes": "./imagenes/Miami.jpg"
+  },
+  
+    {
+    "name": "Museo de Historia Natural ",
+    "City": "Miami",
+    "imagenes": "./imagenes/Chicago.jpg"
+  },
+  {
+    "name": "Museo de Historia Natural de Shanghái",
+    "City": "Shanghái",
+    "imagenes": "./imagenes/Shanghái.jpg"
+  },
+  
+      {
+    "name": "Museo de la Academia China ",
+    "City": "China",
+    "imagenes": "./imagenes/China2.jpg"
+  },
+  {
+    "name": "Museo de las Confluencias",
+    "City": "Lyon",
+    "imagenes": "./imagenes/Lyon.jpg"
+  },
+  
+  {
+    "name": "Museo de Zhang ZhiDong y de la Industria Moderna",
+    "City": "China",
+    "imagenes": "./imagenes/China.jpg"
+  },
+  {
+    "name": "Museo del Mañana",
+    "City": "Rio de Janeiro",
+    "imagenes": "./imagenes/Rio de Janeiro.jpg"
+  },
+  
+  {
+    "name": "Museo del Oro ",
+    "City": "Bogotá",
+    "imagenes": "./imagenes/Bogotá.jpg"
+  },
+  {
+    "name": "Museo Egipcio",
+    "City": "El cairo",
+    "imagenes": "./imagenes/El cairo.jpg"
+  },
+  
+  {
+    "name": "Museo Guggenheim ",
+    "City": "Bilbao",
+    "imagenes": "./imagenes/Bilbao.jpg"
+  },
+  {
+    "name": "Museo Louisiana de Arte Moderno",
+    "City": "Copenhague",
+    "imagenes": "./imagenes/Copenhague.jpg"
+  },
+  
+  
+  {
+    "name": "Museo Nacional de Antropología ",
+    "City": "México",
+    "imagenes": "/imagenes/México.jpg"
+  },
+  {
+    "name": "Museo Old & New Art",
+    "City": "Australia",
+    "imagenes":"./imagenes/Australia.jpg"
+  },
+  {
+    "name": "Museo Van Gogh ",
+    "City": "Ámsterdam",
+    "imagenes": "./imagenes/Ámsterdam.jpg"
+  },
+  {
+    "name": "Rijksmuseum ",
+    "City":"Amsterdam",
+    "imagenes":"./imagenes/Amsterdam.jpg" 
+  },
+  
+  {
+    "name": "Vasamuseet ",
+    "City": "Estocolmo",
+    "imagenes": "./imagenes/Estocolmo.jpg"
+  },
+  {
+    "name": "Museo Picasso ",
+    "City": "Barcelona",
+    "imagenes": "./imagenes/Barcelona.jpg"
+  },
+  
+  {
+    "name": "Museumquartier  ",
+    "City": "Viena",
+    "imagenes": "./imagenes/Viena.jpg"
+  },
+  
+  {
+    "name": "The National Gallery ",
+    "City": " Reino Unido",
+    "imagenes":"./imagenes/Reino Unido.jpg"
+  },
+  
+ 
+  
+  {
+    "name": "Museo Nacional de Tokio",
+    "City": "Tokio",
+    "imagenes": "./imagenes/Tokio.jpg"
+  }
+  
+  ]

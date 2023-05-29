@@ -1,0 +1,26 @@
+
+.product {
+    background-color: white;
+    width: 745px;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+.product__img {
+
+    border-radius: 12px;
+    display: block;
+    margin: auto;
+
+}
+
+.product__name {
+    margin-top: 14px;
+    font-size: 25px;
+    text-align: center;
+    color: var(--text);
+}
+
+.product-detalles {
+    text-align: center;
+}

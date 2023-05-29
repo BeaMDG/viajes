@@ -1,0 +1,59 @@
+body {
+  padding: 20px;
+ 
+}
+
+img {
+  opacity: 100%;
+}
+
+.input-group {
+  width: 500px;
+}
+
+.card {
+  max-width:  100%;
+}
+
+.card-title-weather {
+  position: absolute;
+  padding: 20px;
+  padding-left: 100px;
+  
+  font-size: 40px;
+  
+
+
+}
+
+.card-date {
+  position: absolute;
+  padding: 10px;
+ padding-left: 100px;
+ margin-top: 60px;
+ font-size: 20px;
+  
+
+}
+
+.card-temp {
+  position: absolute;
+  padding-left: 70px;
+  margin-top: 200px;
+  font-size: 70px;
+  justify-content: center;
+
+
+}
+
+.card-desc {
+  position: absolute;
+  padding-left: 75px;
+  margin-top: 320px;
+}
+
+
+.App {
+  text-align: center;
+
+}

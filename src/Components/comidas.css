@@ -1,0 +1,42 @@
+.comida {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.comida img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.comidaTitulo {
+  font-weight: bold;
+  text-align: center; 
+}
+
+@media (min-width: 768px) {
+  .comida {
+    /* Estilos para dispositivos más grandes */
+    flex-direction: column;
+    padding: 20px;
+   
+  }
+
+  .comida img {
+    /* Estilos para dispositivos más grandes */
+    width: 200px; /* Aumenta el tamaño de la foto al doble */
+    height: 200px; /* Aumenta el tamaño de la foto al doble */
+    margin-right: 20px; /* Agrega un margen a la derecha para separar la foto de la receta */
+    margin-bottom: 0; /* Elimina el margen inferior de la foto */
+  }
+
+  .comidaTitulo {
+    /* Estilos para dispositivos más grandes */
+    margin-bottom: 0; /* Agrega un margen inferior para separar la comida de la receta */
+  }
+}
